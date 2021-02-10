@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>标签列表 | Liztrong&#39;s Blog</title>
+<title>6 | Liztrong&#39;s Blog</title>
 <meta name="description" content="Be a Well Being">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -15,6 +15,12 @@
 <link rel="stylesheet" href="https://liztrong.github.io/styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
 
@@ -23,6 +29,7 @@
 
   </head>
   <body>
+  
     <nav class="navbar border fixed split-nav">
   <div class="nav-brand">
     <h3><a href="https://liztrong.github.io">Liztrong&#39;s Blog</a></h3>
@@ -79,16 +86,44 @@
     <div id="top" class="row site">
       <div class="sm-12 md-8 col">
         <div class="paper">
-          <h2 class="tag-list-title">标签列表</h2>
-          <div class="row tags-container">
+          <article class="article">
+            <h1>6</h1>
+            <p class="article-meta">
+              2021-02-10
+              
+            </p>
             
-              <a href="https://liztrong.github.io/tag/ZQAANzCWs/" class="badge ">
-                Gridea
-              </a>
-            
-          </div>
+            <div class="post-content">
+              <p>666666666666666666666666</p>
+
+            </div>
+          </article>
         </div>
+        <div class="paper" data-aos="fade-in">
+          
+            <div class="next-post">
+              <div class="next">
+                下一篇
+              </div>
+              <a href="https://liztrong.github.io/post/5/">
+                <h3 class="post-title">
+                  5
+                </h3>
+              </a>
+            </div>
+          
+        </div>
+        
+          
+            <div class="paper" data-aos="fade-in">
+              <div id="gitalk-container"></div>
+            </div>
+          
+
+          
+        
       </div>
+
       <div class="sm-12 md-4 col sidebar">
   <div class="paper info-container">
     <img src="https://liztrong.github.io/images/avatar.png?v=1612919421586" class="no-responsive avatar">
@@ -165,7 +200,7 @@
     </div>
     <div class="row">
       
-        <a href="https://liztrong.github.io/tag/ZQAANzCWs/" class="badge ">
+        <a href="https://liztrong.github.io/tag/ZQAANzCWs/" class="badge secondary">
           Gridea
         </a>
       
@@ -175,7 +210,8 @@
     Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://liztrong.github.io/atom.xml" target="_blank">RSS</a>
   </div>
 </div>
-  
+
+
     </div>
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
@@ -187,6 +223,29 @@ AOS.init();
 hljs.initHighlightingOnLoad()
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'e3eeac4fd56eb57a77b6',
+        clientSecret: 'cd0775b9a77eb336f044dc16d886fc99594bd787',
+        repo: 'liztrong.github.io',
+        owner: 'liztrong',
+        admin: ['liztrong'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
