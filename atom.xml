@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liztrong.github.io</id>
     <title>Liztrong&apos;s Blog</title>
-    <updated>2021-02-18T14:00:55.546Z</updated>
+    <updated>2021-02-18T14:02:08.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liztrong.github.io"/>
     <link rel="self" href="https://liztrong.github.io/atom.xml"/>
@@ -28,7 +28,8 @@
 http://club.excelhome.net/thread-1291488-1-1.html</p>
 <hr>
 <h2 id="center扫码关注我的公众号center"><center>扫码关注我的公众号：</center><br>
-<img src="https://liztrong.github.io/post-images/1613654654882.jpg#pic_center" alt="" loading="lazy"></h2>
+<img src="https://liztrong.github.io/post-images/1613654654882.jpg" alt="" loading="lazy"></h2>
+<hr>
 ]]></content>
     </entry>
 </feed>
