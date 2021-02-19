@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liztrong.github.io</id>
     <title>Liztrong&apos;s Blog</title>
-    <updated>2021-02-19T15:05:52.879Z</updated>
+    <updated>2021-02-19T15:12:42.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liztrong.github.io"/>
     <link rel="self" href="https://liztrong.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://liztrong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Liztrong&apos;s Blog</rights>
     <entry>
-        <title type="html"><![CDATA[下载嵌在网页中的PDF文件]]></title>
+        <title type="html"><![CDATA[下载嵌在网页中的PDF]]></title>
         <id>https://liztrong.github.io/post/xia-zai-qian-zai-wang-ye-zhong-de-pdf-wen-jian/</id>
         <link href="https://liztrong.github.io/post/xia-zai-qian-zai-wang-ye-zhong-de-pdf-wen-jian/">
         </link>
@@ -26,6 +26,8 @@
 </center>
 <br>
 <br>
+<hr>
+<p>1</p>
 <center>
 <p>扫码关注我的公众号：<br>
 <img src="https://liztrong.github.io/post-images/1613654654882.jpg" alt="" loading="lazy"></p>
@@ -48,7 +50,8 @@
 2、函数中的网址必须在引号之间<br>
 3、用到了两个函数：FILTERXML()及WEBSERVICE()</p>
 <p>参考：<br>
-http://club.excelhome.net/thread-1291488-1-1.html</p>
+<a href="http://club.excelhome.net/thread-1291488-1-1.html">http://club.excelhome.net/thread-1291488-1-1.html</a></p>
+<hr>
 <center>
 <p>扫码关注我的公众号：<br>
 <img src="https://liztrong.github.io/post-images/1613654654882.jpg" alt="" loading="lazy"></p>
