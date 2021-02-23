@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liztrong.github.io</id>
     <title>Liztrong&apos;s Blog</title>
-    <updated>2021-02-20T16:11:29.427Z</updated>
+    <updated>2021-02-23T15:24:54.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liztrong.github.io"/>
     <link rel="self" href="https://liztrong.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://liztrong.github.io/images/avatar.png</logo>
     <icon>https://liztrong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Liztrong&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[如何找单词的影视原声例句]]></title>
+        <id>https://liztrong.github.io/post/ru-he-gei-dan-ci-pei-shang-ying-shi-yuan-sheng-li-ju/</id>
+        <link href="https://liztrong.github.io/post/ru-he-gei-dan-ci-pei-shang-ying-shi-yuan-sheng-li-ju/">
+        </link>
+        <updated>2021-02-23T14:17:06.000Z</updated>
+        <content type="html"><![CDATA[<p>用搜狗翻译​（https://fanyi.sogou.com/text）给单词配上影视原声例句​。</p>
+<p>方法:<br>
+第一步：在翻译框中输入单词（比如：dog）后，滚动鼠标往下拉页面，即可看到影视原声例句。<br>
+<img src="https://liztrong.github.io/post-images/1614090801388.gif" alt="" loading="lazy"></p>
+<p>第二步：按F12键，点 Network，再点 Media，然后再点小喇叭播放例句的声音，这时就可以在下面看到一个MP3文件，用鼠标指向它，右键单击，把这个MP3文件的地址复制下来。<br>
+<img src="https://liztrong.github.io/post-images/1614092216515.gif" alt="" loading="lazy"></p>
+<p>第三步：把刚才复制下来的MP3的网址粘贴到平时上网时输入网址的框中，回车后，就可以看到播放器，点击三个圆点，就可以下载了。</p>
+<p>好了，来听听刚下载下来的《老友记 第七季》中的声音例句吧：</p>
+<iframe name="music" src="file://e:/浏览器下载/dog-example.mp3"marginwidth="1px" marginheight="20px" width=100% height="80px" frameborder=1 　scrolling="yes" >
+</iframe>
+<p>Where is the dog? What dog? There's no dog here. Yeah, that dog left.<br>
+狗在哪里？什么狗？这里没有狗。那只狗离开了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[下载嵌在网页中的PDF]]></title>
         <id>https://liztrong.github.io/post/xia-zai-qian-zai-wang-ye-zhong-de-pdf-wen-jian/</id>
